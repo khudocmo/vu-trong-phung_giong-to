@@ -480,8 +480,6 @@ Cô Lễ len lét thưa
 
 -- Thế có nhớ đến hộp táo tàu đấy hay là không?
 
-...
-
 Chợt có tiếng động cơ xe hơi, trước còn văng vẳng, sau thấy mỗi phút một rõ dần. Một hồi còi điện như tiếng lợn hét, rúc vang lên. Cả phòng nhao nhao.
 
 -- Quan về! Xe quan đã về thật.
@@ -521,6 +519,7 @@ Một câu đáp gắt gỏng cắt lời đon đả ấy:
 Cô Kiểm và cả bọn bẽn lẽn kéo nhau vào một phòng còn thiếu niên vào ngồi ở phòng khách, lấy ở túi áo một tờ báo Lưỡng kỳ ra, cắm mặt xuống xem, không biết lượt này đã là lượt thứ mấy.
 
 THỜI SỰ CÁC TỈNH
+
 Phải chăng là một vụ cưỡng dâm?
 
 báo thì Thị M. con gái ông đồ, đêm ấy đi gặt rạ cùng với mấy người làng, đã bị nhà tai to mặt lớn (?) kia gọi đến chỗ xe hơi hòm của ông, rồi Thị bị cưỡng dâm. Sau cuộc cẩu hợp, con dê già kia vứt cho cô bé đáng thương, năm cái giấy bạc một đồng ý chừng đền bù cho cả một cuộc đời bị làm hại. Cô bé lúc ấy vì ngộ phải gió độc nên đã ốm trầm trọng. Tuần tráng nghe thấy tiếng kêu rên, chạy ra toan bắt, song con dê già phóng xe đi thẳng! Thật là một việc rất dã man. Nghe đâu con dê già kia sẽ chẳng bao lâu bị truy tố trước pháp luật, vì tuần tráng có trông thấy số xe. Bản báo chờ cuộc điều tra của nhà chức trách sẽ nêu lên đây cái tên tuổi đáng lưu truyền sử xanh của con dê già ấy. Hiện gờ cô bé bị hiếp đã được điều dưỡng tại nhà thương. Và được tin gì bản báo sẽ đăng tiếp.
@@ -548,8 +547,7 @@ Nhưng người con lão giơ tay ngăn và bình tĩnh nói một cách đáng 
 
 -- Không, thưa ông! Người ta đã nói thật! Là vì ngoài cuộc điều tra của nhà báo, còn có cuộc điều tra của tôi, thằng con ông! Sau cái việc bậy bạ ấy, ông còn phái con đào Lan về, toan hối lộ lão huyện, nhưng mà ông đã thất bại. Ông có biết rằng nhiều người thù oán ông lắm rồi không? Ông muốn từ tôi thì xin cứ từ, nhưng mà để cho tôi nói vài lời đã! Tôi đã đến lúc không nín được rồi.
 
--- Không! Tao chẳng hiếp ai, cưỡng ai. Lúc xe ăng ban(1)
-tao buồn, gọi nó lại... Tao đã trả nó 5 đồng.
+-- Không! Tao chẳng hiếp ai, cưỡng ai. Lúc xe ăng ban (1) tao buồn, gọi nó lại... Tao đã trả nó 5 đồng.
 
 -- ... Thưa ông nó đã được giấy nhận thực bị ông làm mất tân.
 
@@ -750,8 +748,6 @@ Một giọng ồ ồ đáp lại:
 -- Ông chủ lẳng lặng ra khỏi gian nhà đi qua cái vườn tối tăm, rồi về cái phòng gác có một mâm cỗ linh đình và mười một người đàn bà ngồi đợi.
 
 
-
-
 # Chương 5
 
 
@@ -907,8 +903,6 @@ Làm sao hở anh Long? Bà đồ đáp tiếp:
 -- Quan với ông đồn bảo ông chánh hội với ông lý trưởng lên xe tu bin về huyện.
 
 Đáp xong, bà đồ ngẩn người ra nhìn con rể, miệng tròn như một chữ o.
-
-
 
 
 # Chương 6
@@ -1138,8 +1132,6 @@ Lúc ông huyện ra tới sân thì thấy nghị Hách đương nói với m�
 Ông huyện tuy vậy cũng làm như không nghe tiếng và cứ gọi rõ to:
 
 -- Kìa quan lớn nghị! Ngài không đánh xe trả tôi về huyện à?
-
-
 
 
 # Chương 7
@@ -1389,11 +1381,7 @@ Long đứng ngay ngắn lên mà rằng:
 
 -- Thưa ông, tôi cũng lấy làm vinh dự mà được làm công cho một người như ông. Tôi xin cố hết sức.
 
-
-
-
 # Chương 8
-
 
 Từ khi xảy ra cái việc không may cho cô gái quê làng Quỳnh Thôn, tính đến hôm nay đã được 20 hôm. Trong khoảng hơn nửa tháng trôi, cả làng, từ trẻ đến già, từ nhớn đến bé, đã sống qua những ngày giờ nặng trình trịch, rất hỗn loạn.
 
@@ -1531,8 +1519,6 @@ Ngay lúc đó có một thằng bé len lét bước vào, đến bên ông đ�
 -- Thật không? Khuya khoắt thế này mà họ còn về à?
 
 -- Vậy, cả cậu Long cũng về. Chính cậu Long bảo con ra đây nói nhỏ với cụ như thế. Sáng mai phải lên hầu quan rồi, thì bây giờ cụ phải về ngay cho.
-
-
 
 
 # Chương 9
@@ -1835,8 +1821,6 @@ Rồi quan xếp dọn giấy má và khẽ dặn một anh lính:
 -- Lát nữa tao về đình đâu đấy rồi thì thả thằng làm báo ra, nó có muốn sinh sự gì thì cứ đẩy cổ nó đi, không cho nó được lai vãng đến cửa huyện.
 
 
-
-
 # Chương 10
 
 
@@ -2043,8 +2027,6 @@ Lúc ấy, thằng Xuân cầm roi rồi. Nó mím môi lại, giơ cao tay. T�
 Tài Nhì, đương cái cơn mưa roi vọt ấy, oằn mình đi như một sợi tóc bị hơ trên ngọn lửa. Long không dám nhìn phải nhắm mắt lại. Vậy mà những tiếng đen đét vẫn không thôi giáng xuống lưng Tài Nhì như mưa...
 
 Oai nghiêm trên sập, nghị Hách vẫn chưa có lệnh cho ngừng.
-
-
 
 
 # Chương 11
@@ -2293,8 +2275,6 @@ Thị Mịch vừa khóc nức nở vừa nói:
 Rồi Thị Mịch lại khóc nữa nở. Ông đồ vứt roi đi, lom khom cúi xuống, ái ngại lôi tay con gái.
 
 
-
-
 # Chương 12
 
 
@@ -2438,8 +2418,6 @@ Nước mắt Long bỗng đâu cứ ứa ra...
 Long vùng đứng dậy ra đứng trước gương nhìn vào bộ mặt phụ bạc của mình rồi tự nhủ: "Không! Ông Tú Anh là người đáng yêu, đáng nhớ ơn. Ta không thể ỡm ờ như trước được. Nếu ta muốn báo thù thì ta cũng phải nói thẳng ra là ta sẽ báo thù thì mới xứng đáng là một kẻ nam nhi. Ta phải nói rõ là chính ta là chồng chưa cưới của người con gái bị hiếp dâm, và đừng ai mong ở một vụ cưỡng bức một cuộc nhân duyên ép uổng! Thái độ của ta không được mập mờ. Hoặc ta sẽ bỏ ơn, nhớ thù, hoặc bỏ thù, nhớ ơn. Ta cần phải nói rõ. Ta sẽ nói!".
 
 Rồi Long ra đứng đợi chủ ở cửa trường.
-
-
 
 
 # Chương 13
@@ -2603,8 +2581,6 @@ Thốt nhiên thấy Long gục mặt xuống tay. Rồi Long cứ dụi mãi ta
 Tú Anh đứng lên ngơ ngác. Long lại gắt, nhưng trong câu gắt vẫn có giọng nể:
 
 -- Tôi đã bảo xin ông đi ngay đi cho mà!
-
-
 
 
 # Chương 14
@@ -3215,8 +3191,6 @@ Nhưng Tú Anh bình tĩnh đáp:
 -- Tôi xin đem danh dự tôi ra mà thề.
 
 
-
-
 # Chương 18
 
 
@@ -3316,8 +3290,6 @@ Long cảm thấy Tú Anh là thâm trầm, là hiểu đời vô cùng. Chàng 
 Một chiếc xe ô tô ca phăng phăng trên đường nhựa... Như cái máy, Long ra hiệu cho cái máy ấy dừng lại. Lúc bước chân lên xe rồi, bụng chàng vẫn còn lẩn quẩn những ý nghĩ khinh bỉ lão đồ Quỳnh Thôn.
 
 Cho nên hành khách trên xe hơi, khi thấy người thiếu niên vừa bước lên xe xong là lầm bầm: "Đồ khốn nạn! Một lũ khốn nạn!" rồi lại ngồi trầm ngâm khoanh tay: thì ai cũng ngẩn người ra như người ta phải lạ lùng, khi thấy một người điên rồ như thế.
-
-
 
 
 # Chương 19
@@ -3530,8 +3502,6 @@ Thế là nghị Hách, không ân cần được nửa lời, lại tất tả 
 Đêm hôm ấy Mịch nằm một mình, nghĩ đến Long hối hận.
 
 
-
-
 # Chương 20
 
 
@@ -3733,8 +3703,6 @@ Nói xong ông cụ ra. Long chạy theo:
 Ông già nghiêm mặt giơ ngón tay trỏ trước mũi Long mà rằng:
 
 -- Ngay từ bây giờ không được nói gì cả! Không được hỏi gì cả!
-
-
 
 
 # Chương 21
@@ -3996,8 +3964,6 @@ Thằng Xuân chạy đến thì nghị Hách bảo:
 Rồi quay lại tiếp những người khác.
 
 
-
-
 # Chương 22
 
 
@@ -4113,8 +4079,6 @@ Mịch khóc nức nở lên. Long cũng nói nghẹn ngào.
 -- Tú Anh!... Giời ơi, một người như Tú Anh... Từ đấy trở đi, hai người mới kể lể hết với nhau, mới rõ sự thực, mới khám phá ra mối hiểu lầm, mới tranh nhau mà hối hận, mà xin nhau tha thứ cho nhau...
 
 Sáng chủ nhật hôm ấy, không lo ngại gì cả, cũng chẳng nghĩ đến cái thai trong bụng nữa, y như một con dâm phụ, Mịch đã cho Long ái tình.
-
-
 
 
 # Chương 23
@@ -4355,8 +4319,6 @@ Nghị Hách phát cáu, đứng lên:
 -- Thế bác coi tôi là người hay là chó?
 
 
-
-
 # Chương 24
 
 
@@ -4559,8 +4521,6 @@ Long cầm mũ đứng lên, nói qua một cái xo vai:
 Rồi ra thẳng, bỏ mặc Mịch với Tú Anh.
 
 Mịch vẫn ngây mặt ra, vì không hiểu hai bên nói với nhau những gì. Sau khi phải nhìn theo Long một cách căm tức, Tú Anh quay lại nhìn Mịch chòng chọc...
-
-
 
 
 # Chương 25
@@ -4835,8 +4795,6 @@ Vạn tóc mai reo xong, nháy mắt mấy cái. Hai người im lặng nhìn nh
 Vén quần lên đến bẹn, Vạn tóc mai vỗ đùi đánh bốp một cái, đoạn vớ lấy ấm nước nóng, ngửa cổ tu một hơi cực dài.
 
 
-
-
 # Chương 26
 
 
@@ -4905,7 +4863,7 @@ Như một cái máy, Long ra khép cửa rồi quay về ngồi bên Tuyết, m
 
 -- Không anh có buồn gì đâu?
 
-Long tuy chối cãi, song cũng chẳng nghĩ gì đến lời mình chối cãi, vẻ tự nhiên bạo dạn của Tuyết lúc mới vào khách sạn, giọng phán bảo của Tuyết xuống cho bọn bồi, làm cho Long thấy Tuyết là thạo đời lắm Long nghĩ thầm: "Giời ơi một thiếu nữ mà thạo đời! Mà lại thạo đời trong những lúc vào khách sạn thuê buồng!". Bất giác Long lại nhớ đến những cử chỉ của Tuyết từ lúc mới gặp Tuyết. Tự nhiên Long thấy việc được Tú Anh gọi gả em cho là khả nghi, là có một ủy khúc gì mà chàng không khám phá ra nổi. Long trờn trợn thấy rằng Long sẽ là hạng người lấy vợ thừa mà rồi phải câm miệng hến, vì nếu Long có muốn kêu gào thì người ta sẽ đem những giấy bạc và ngân phiếu ra để dán vào mồm Long. Chàng tự xét không có cái tài đức gì đáng hưởng sự tử tế của Tú Anh, nếu những sự tử tế ấy không là giả dối. Phải, phải, tất nhiên Tuyết đã nhị rữa hoa tàn rồi thì người ta mới phải gả cho một kẻ của hội nuôi trẻ mồ côi! Mà nếu không thì ít ra Tuyết cũng đã hư hỏng theo cái lối bọn phụ nữ lẳng lơ tột bậc, có hàng chục bạn giai và nhân tình rất lẳng lơ nhưng rất khôn ngoan, không giữ gìn cho Tuyết sạch giá trong mà tựu trung vẫn giữ được tuyết sạch giá trong, đã lần lượt cho nhân ngãi làm đủ mọi trò ô trọc nhưng chưa cho ai hưởng cái "ân huệ cuối cùng". Trước khi có chồng, thì phải hấp tấp hưởng mọi lạc thú của tuổi xuân, mà đến khi lấy chồng, vào buổi tối tân hôn, vẫn còn đủ điều kiện để thỏ thẻ với anh chồng khù khờ: "Này mình ơi, em chưa hề yêu ai cả!". Long bất giác nghĩ đến cuốn truyện Lesdemi-vierges(1) của Marcel Prévost(2).
+Long tuy chối cãi, song cũng chẳng nghĩ gì đến lời mình chối cãi, vẻ tự nhiên bạo dạn của Tuyết lúc mới vào khách sạn, giọng phán bảo của Tuyết xuống cho bọn bồi, làm cho Long thấy Tuyết là thạo đời lắm Long nghĩ thầm: "Giời ơi một thiếu nữ mà thạo đời! Mà lại thạo đời trong những lúc vào khách sạn thuê buồng!". Bất giác Long lại nhớ đến những cử chỉ của Tuyết từ lúc mới gặp Tuyết. Tự nhiên Long thấy việc được Tú Anh gọi gả em cho là khả nghi, là có một ủy khúc gì mà chàng không khám phá ra nổi. Long trờn trợn thấy rằng Long sẽ là hạng người lấy vợ thừa mà rồi phải câm miệng hến, vì nếu Long có muốn kêu gào thì người ta sẽ đem những giấy bạc và ngân phiếu ra để dán vào mồm Long. Chàng tự xét không có cái tài đức gì đáng hưởng sự tử tế của Tú Anh, nếu những sự tử tế ấy không là giả dối. Phải, phải, tất nhiên Tuyết đã nhị rữa hoa tàn rồi thì người ta mới phải gả cho một kẻ của hội nuôi trẻ mồ côi! Mà nếu không thì ít ra Tuyết cũng đã hư hỏng theo cái lối bọn phụ nữ lẳng lơ tột bậc, có hàng chục bạn giai và nhân tình rất lẳng lơ nhưng rất khôn ngoan, không giữ gìn cho Tuyết sạch giá trong mà tựu trung vẫn giữ được tuyết sạch giá trong, đã lần lượt cho nhân ngãi làm đủ mọi trò ô trọc nhưng chưa cho ai hưởng cái "ân huệ cuối cùng". Trước khi có chồng, thì phải hấp tấp hưởng mọi lạc thú của tuổi xuân, mà đến khi lấy chồng, vào buổi tối tân hôn, vẫn còn đủ điều kiện để thỏ thẻ với anh chồng khù khờ: "Này mình ơi, em chưa hề yêu ai cả!". Long bất giác nghĩ đến cuốn truyện Lesdemi-vierges (Những bàn xử nữ) của Marcel Prévost.
 
 Sức liên tưởng làm cho Long nhớ lại một bữa cơm ở cao lâu Thiều Châu trong lúc ấy, Tuyết đã bắc bậc kiêu kỳ mà nói với Long những là: "... đáng lẽ ra tôi phải lấy một người chồng làm đốc tờ, làm thày kiện, làm giáo sư..." Thế thì sao nó lại lấy mình? Sao nó lại yêu mình? Long tự hỏi như vậy thì thấy bao nhiêu đô lực của sự hoài nghi, của sự giận giỗi, của lòng tự ái bị thương, làm cho quả tim trong ngực chàng phải khám phá cho ra mới được!
 
@@ -5043,11 +5001,6 @@ Long rón rén quay xuống tự nghĩ: "Chẳng qua thì họ cũng đương l�
 
 Rồi Long ra, gọi xe, bảo kéo đến khách sạn.
 
-
-(1) Những bàn xử nữ,
-
-(2) Mácxen Pơrêvôt.
-
 # Chương 27
 
 Cái đồng hồ to bằng cả một cái áo quan để dựng đứng ở một góc phòng, ngân nga buông mười tiếng chuông thong thả, dài dằng dặc những dư âm, làm cho ta phải tưởng là quanh quẩn đâu đây có chuông nhà thờ vẫn báo cho đêm khuya sự sinh tồn của nhân loại. Cả vòm trời bị mây đen phủ kín, như muốn chụp xuống mặt đất, đến nỗi đêm tối mù mịt lại như đêm tất niên. Sắp mưa, tiết trời càng thêm oi ả khó chịu.
@@ -5154,7 +5107,7 @@ Nghị Hách phán như những khi vào cao lâu:
 
 -- Vâng.
 
--- Trong khi phải đợi thì hãy cho vài hộp Bénarès(1) nữa lên đây, mau!
+-- Trong khi phải đợi thì hãy cho vài hộp Bénarès[^1] nữa lên đây, mau!
 
 -- Vâng.
 
@@ -5162,7 +5115,7 @@ Nghị Hách phán như những khi vào cao lâu:
 
 Nghị Hách quay lại ông bạn:
 
--- Quan anh có tắm không? Tắm nước suối, mát lắm, khỏe lắm - Dọn buồng tắm đi nhé! Để ở buồng một cái ky mô nô để cụ thay... Mở bốn chục chai nước suối viten đổ vào thùng rồi pha nửa chai cô lôn(2) để cụ giội lại... Thôi cho các chị lui cả.
+-- Quan anh có tắm không? Tắm nước suối, mát lắm, khỏe lắm - Dọn buồng tắm đi nhé! Để ở buồng một cái ky mô nô để cụ thay... Mở bốn chục chai nước suối viten đổ vào thùng rồi pha nửa chai cô lôn[^2] để cụ giội lại... Thôi cho các chị lui cả.
 
 -- Dạ.
 
@@ -5172,7 +5125,7 @@ Ba người đàn bà cúi đầu cáo lui... Cô Kiểm lại bị gọi giật
 
 -- Dạ.
 
--- Đêm nay thì phải thức với tôi đấy. Dọn cái buồng Thổ Nhĩ Kỳ ở gác thượng để chớp bóng đấy nhé! Liệu mà dọn tĩnh(3) lên. Rượu sâm banh cũng đem lên. Đánh ngay tê lê phôn về Hà Nội cho thằng Lộc đen, chủ cái tiệm khiêu vũ gì ở đường bờ sông đó, bảo nó thuê ngay ô tô cho hai đứa trẻ nhất, đẹp nhất, lên trên này! Nếu nó không sẵn thì bắt nó đi tìm cho được! Nếu khách nhà nó đông quá thì bảo nó đóng cửa hiệu lại một tối! Nó lên đây thì giả cho nó bốn chục, nó kỳ kèo thì thêm cho nó mười đồng! Xong!
+-- Đêm nay thì phải thức với tôi đấy. Dọn cái buồng Thổ Nhĩ Kỳ ở gác thượng để chớp bóng đấy nhé! Liệu mà dọn tĩnh[^3] lên. Rượu sâm banh cũng đem lên. Đánh ngay tê lê phôn về Hà Nội cho thằng Lộc đen, chủ cái tiệm khiêu vũ gì ở đường bờ sông đó, bảo nó thuê ngay ô tô cho hai đứa trẻ nhất, đẹp nhất, lên trên này! Nếu nó không sẵn thì bắt nó đi tìm cho được! Nếu khách nhà nó đông quá thì bảo nó đóng cửa hiệu lại một tối! Nó lên đây thì giả cho nó bốn chục, nó kỳ kèo thì thêm cho nó mười đồng! Xong!
 
 -- Bẩm vâng.
 
@@ -5319,19 +5272,14 @@ Lão nâng cốc lên, chờ bạn, rồi uống rồi đặt cốc và bấm m�
 Một chuyến khiêu dâm...
 
 Nhan đề: Les 32 careses
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-(1) Thuốc phiện trắng.
 
-(2) Một loại nước hoa hảo hạng.
+[^1]: Thuốc phiện trắng.
 
-(3) Bàn đèn thuốc phiện (tiếng lóng).
+[^2]: Một loại nước hoa hảo hạng.
 
-
-
+[^3]: Bàn đèn thuốc phiện (tiếng lóng).
 
 # Chương 28
-
-
 
 Lúc ấy là 10 giờ đêm.
 
@@ -5560,8 +5508,6 @@ Khi cả bọn xuống đến thềm thì Vạn tóc mai chạy đến bộ hố
 Tiếng động cơ xe bắt đầu kêu to...
 
 
-
-
 # Chương 29
 
 
@@ -5590,7 +5536,7 @@ Thoạt đầu, lúc mới xuống xe, quan công sứ, vận lễ phục và đ
 
 Ba bốn cái máy ảnh của phái viên các báo xông đến trước mặt ngài rồi mới trõ ống kính xuống đám cùng dân, thành thử bọn người lĩnh chẩn sau cùng lại được may, vì có mặt quan trên, lính không dám đánh, và vì tiền thừa, gạo cũng thừa, họ được lĩnh gấp đôi, gấp ba những kẻ lĩnh trước.
 
-Khi quan công sứ tiến vào sân Tiểu Vạn trường thành thì, một tiếng hô, một dẫy lính bồng súng đánh hích một cái để cho dẫy lính Kèn đứng đối diện cử bài Lamarseillaise(1). Các quan chức đi theo quan đầu tỉnh cũng đừng chân ngả mũ chào bài quốc ca như ngài. Ông nghị Tạ Đình Hách, bảnh bao trong áo gấm, ngực cũng đã lơ thơ điểm huy chương rồi, khúm núm vái một cái dài, bắt tay quan sứ và các quan... Bài quốc ca cử xong các quan chức khác đứng lui về sau quan đầu tỉnh để ngài đọc chúc từ. Cách năm bước, trước mặt. Nghị Hách lúc đó đứng chắp tay cúi đầu nghe, kính cẩn và ngoan ngoãn.
+Khi quan công sứ tiến vào sân Tiểu Vạn trường thành thì, một tiếng hô, một dẫy lính bồng súng đánh hích một cái để cho dẫy lính Kèn đứng đối diện cử bài Lamarseillaise[^4]. Các quan chức đi theo quan đầu tỉnh cũng đừng chân ngả mũ chào bài quốc ca như ngài. Ông nghị Tạ Đình Hách, bảnh bao trong áo gấm, ngực cũng đã lơ thơ điểm huy chương rồi, khúm núm vái một cái dài, bắt tay quan sứ và các quan... Bài quốc ca cử xong các quan chức khác đứng lui về sau quan đầu tỉnh để ngài đọc chúc từ. Cách năm bước, trước mặt. Nghị Hách lúc đó đứng chắp tay cúi đầu nghe, kính cẩn và ngoan ngoãn.
 
 Quan công sứ nói đại khái rằng ngài rất vui lòng được đại diện chính phủ Bảo hộ, chính phủ Nam triều gắn huy chương cho một người công dân rất xứng đáng ở tỉnh ngài trọng nhận. Vì ông Nghị, Tạ Đình Hách là một bậc doanh nghiệp hiển hách ít có, mà lòng nhân từ bác ái thì lại đáng treo gương cho dân bảo hộ soi chung... Rồi ngài cài một chiếc long bội tinh vào ngực nhà triệu phú, lại hôn hai chiếc vào hai bên má nhà triệu phú theo như nghi lễ. Tạ Đình Hách, cảm động hết sức, lắp bắp mấy câu cảm tạ, rồi thì một chàng pháo dài nổ ran lên... Về sau, quan sứ chạy lại nói mấy câu với các quan chức cùng các vị thân hào, vì một bài kèn tiễn nổi lên, quan sứ ra lên xe hơi, về phủ. Các quan chức xúm nhau lại chúc mừng ông Nghị rồi cùng dần dần kéo nhau ra về. Lệ gắn huy chương thế là cử hành xong.
 
@@ -5660,14 +5606,9 @@ Một hồi vỗ tay nữa kêu ran lên.
 
 Quan phó sứ lại bắt tay chúc mừng Long và Tuyết. Những người khác rầm rộ đẩy ghế đứng dậy bắt chước quan phó sứ.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-(1) La Mácxâyedơ, quốc ca Pháp
-
-
+[^4]: La Mácxâyedơ, quốc ca Pháp
 
 # Chương 30
-
-
 
 Qua tỉnh lỵ Quảng Yên chừng 20 cây số, xe bắt đầu chạy chậm, và cứ thẳng tiến trên con đường thuộc địa đi Tiên Yên. Những luồng gió mạnh mẽ nặng nề và những hạt mưa to ào ào hắt và bốn bề cửa kính. Lắm lúc qua một chặng đường úng thủy bánh xe lại tung lên những cây nước cao ba thước ra hai bên vệ đường. Cơn giông tố phũ phàng, bẻ những cành cây mục rồi để rơi dưới mặt đường ngổn ngang. Cả trời đất ủng sũng, trắng xóa những nước là nước.
 
@@ -5677,7 +5618,7 @@ Chàng đang ngồi ôm đầu trong phòng giấy nghe tiếng mưa gào gió t
 
 Ấy thế rồi... cuộc hành trình. Ông già ngồi vào cầm lái xe, và lành nghề như một người đã sống vì nghề lái ô tô hàng đã vài chục năm rồi vậy. Trong quãng đường dài từ Hà Nội qua Hải Phòng, rồi thẳng đi về mạn Móng Cáy, đà xe cứ thay từ 60 đến 100 cây một giờ, hai bố con tính chưa nói được câu nào với nhau. Đã nhiều lần Tú Anh muốn hỏi, song động cơ nổ ầm ầm, lại thêm mưa gào gió thét quanh xe, nếu có trò chuyện cũng khó nghe cho hiểu.
 
-Trước mặt có một vệt đen sì... Nhoi lên trên vệt ấy là một cái chòi cao... Đồn! Xe dừng chậm ông già thay đèn pha(1) ra đèn cốt(2) để ung dung lẳng lặng qua đồn một cách nghiêm trang bệ vệ, ý chừng sợ bọn lính gác nghi hoặc gì chăng... Khỏi địa phận của đồn, xe lại phóng nước đại. Độ mười phút sau thì trời đất mở ra một vòm bao la, bát ngát, bên trái là đồng ruộng và làng mạc, bên phải là bể, bể với những hàng dãy núi đá và những cồn cát chập chùng. Những cái bóng đen sì có hình thể của những cái roi tiên cắm ngược là những cây phi lao. Dù là giữa đêm khuya, nhờ có ánh sáng của nước mưa, người ta cũng nhìn rõ được mọi vật ở ngoài cái vòng ánh sáng của đèn xe. Thì ra đã quá khu vực của vịnh Hạ Long nhiều đường đất lắm!
+Trước mặt có một vệt đen sì... Nhoi lên trên vệt ấy là một cái chòi cao... Đồn! Xe dừng chậm ông già thay đèn pha[^5] ra đèn cốt[^6] để ung dung lẳng lặng qua đồn một cách nghiêm trang bệ vệ, ý chừng sợ bọn lính gác nghi hoặc gì chăng... Khỏi địa phận của đồn, xe lại phóng nước đại. Độ mười phút sau thì trời đất mở ra một vòm bao la, bát ngát, bên trái là đồng ruộng và làng mạc, bên phải là bể, bể với những hàng dãy núi đá và những cồn cát chập chùng. Những cái bóng đen sì có hình thể của những cái roi tiên cắm ngược là những cây phi lao. Dù là giữa đêm khuya, nhờ có ánh sáng của nước mưa, người ta cũng nhìn rõ được mọi vật ở ngoài cái vòng ánh sáng của đèn xe. Thì ra đã quá khu vực của vịnh Hạ Long nhiều đường đất lắm!
 
 Tú Anh chưa dám hỏi ấy là ông bố định dắt mình đi đến đầu trời cuối đất nào, thì ông già hãm xe. Cách ba thước trước mặt là một dãy nhà trong đó có một tòa nhà gạch lối cổ, còn thì là những mái gianh xiêu vẹo. Trông ra xa nữa, một con đường nhỏ dắt đến một dẫy cồn đá; có một cây đa um tùm nhoi lên trên. Dưới cồn đá là bến thuyền có vài chiếc thuyền nhỏ của dân chài lưới. Chung quanh cây đa có vài quán chợ, ý chừng là chợ tôm cá của dân miền Duyên Hải.
 
@@ -5828,13 +5769,9 @@ Người lính nói:
 
 Tú Anh tuy vậy cũng không lo lắng phân vân, mặc lòng đã thấy người ấy có một vẻ tín ngưỡng mà người thường không có.
 
-\-\-\-\-\-\-\-\-\--
-(1) Pha ro.
+[^5]: Pha ro.
 
-(2) Go de.
-
-
-
+[^6]: Go de.
 
 # ĐOẠN KẾT
 
@@ -5852,7 +5789,7 @@ Long cứ từ gác ngoài vào trong, lại từ đấy xuống nhà dưới, �
 
 Cảnh phố xá dần dần vắng vẻ, vừa báo đêm khuya thì trong cảnh bồng lai, dâm thần đã điểm cái giờ khai chiến. Lúc ấy trên gác ngoài anh kép đã phải đổi cái đàn dây ra đàn nguyệt, mà cô danh ca cũng đã thôi những bài hát nói gửi thư, để ca mấy cây nam ai, lẩy mẩy câu Kiều. Khói thuốc phiện bốc lên trần nhà đã xanh lè những ông trí thức đạo mạo nhất bọn cũng đã cho về những cái đứng đắn, để lôi những mỹ nhân vào lòng mà xin ái tình bằng tay và môi.
 
--- Khổ chủ ơi khổ chủ! Vào ken cò(1) nữa đi!
+-- Khổ chủ ơi khổ chủ! Vào ken cò[^7] nữa đi!
 
 -- Thôi, xin phép... Tôi hút đã khản cả cổ rồi!
 
@@ -5912,7 +5849,8 @@ Giọng gắt ấy có vẻ dữ tợn đến nỗi Minh Châu tái mặt đi, p
 
 Tay trái chống bàn, tay phải nâng cao cốc, Long trầm tư mặc tưởng trong ba phút, rồi lầm lầm nét mặt, nghiêm nghị nói to:
 
--- A la santé de tous!(2)
+-- A la santé de tous![^8]
+
 Hai mươi chín người nâng cốc nhắc lại câu ấy, hai mươi chín cái cổ ngửa, hai mươi chín cốc sâm banh ráo hoảnh. Người ta lại rót rượu một lần nữa. Bây giờ đến một quan viên khác nâng cao cốc, nói:
 
 -- Bọn anh hùng hảo hán chúng ta cạn chén chúc vạn tuế cho phái phụ nữ!
@@ -6085,8 +6023,8 @@ Ngoài phố thằng bé mồ côi rao bánh rán nóng, bà lão già rao bánh
 
 (Septembre 1936)
 
-(1) Hút vài điếu.
+[^7]: Hút vài điếu.
 
-(2) Chúc sức khỏe tất cả.
+[^8]: Chúc sức khỏe tất cả.
 
 
