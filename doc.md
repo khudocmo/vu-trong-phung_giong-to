@@ -188,7 +188,9 @@ Nhà điền chủ quay lại nhìn thì đó là mấy người đàn bà đứ
 
 Cánh cửa sập một cái, anh ét lên nốt xe...
 
-Ở sau có tiếng lào xào: - "Ta hay Tây? Ta hay Tây?" Nhà điền chủ quay lại lần nữa thì đó là một bọn người có tay thước, áo tơi, quần xắn gọn, ý chừng là bọn tuần.
+Ở sau có tiếng lào xào: 
+
+-- "Ta hay Tây? Ta hay Tây?" Nhà điền chủ quay lại lần nữa thì đó là một bọn người có tay thước, áo tơi, quần xắn gọn, ý chừng là bọn tuần.
 
 Xe bắt đầu từ từ chạy...
 
@@ -222,7 +224,9 @@ Bốn ông kia còn dùng dằng, may sao đã thấy một giọng oang oác t�
 
 -- Cái kiện này thế nào cũng phải được! Vì rằng điều can hệ là biển số xe thì nom thấy rồi, có phải không, ông Trương?
 
-Ông Trương ngần ngừ mà rằng: - Nhớ thoang thoáng thôi ạ. Lúc ấy tôi cũng hốt hoảng lắm, không biết là số xe thì: hai vạn bốn nghìn tám trăm bẩy mươi nhăm, hay là hai vạn bốn nghìn tám trăm mười lăm.
+Ông Trương ngần ngừ mà rằng:
+
+-- Nhớ thoang thoáng thôi ạ. Lúc ấy tôi cũng hốt hoảng lắm, không biết là số xe thì: hai vạn bốn nghìn tám trăm bẩy mươi nhăm, hay là hai vạn bốn nghìn tám trăm mười lăm.
 
 Ông lý trưởng trầm tĩnh làm ra mình hiểu pháp luật:
 
@@ -1265,7 +1269,9 @@ Nói xong thiếu niên hôn vào đùi thiếu nữ đánh chút một cái, v�
 
 Long đến bên cạnh, lễ phép hỏi.
 
--- Xin lỗi, ngài là ông Vạn có phải không? Vạn tóc mai méo xệch cái mồm, cả cười mà rằng: - Sao biết?
+-- Xin lỗi, ngài là ông Vạn có phải không? Vạn tóc mai méo xệch cái mồm, cả cười mà rằng:
+
+-- Sao biết?
 
 Rồi lại điềm nhiên bảo nhân tình:
 
@@ -1418,7 +1424,9 @@ Như ba tội nhân đứng trước máy chém, ông lão già và hai người
 
 -- Ông cụ Đồ với hai bà này đã đi gánh rạ đêm vụ cô Mịch, đã trông thấy rõ cái tấn kịch ấy, mà đã có khai ở huyện rồi mà lại bảo không đi là nghĩa lý thế nào?
 
-Ông cụ già vẫn hậm hực: - Thôi, lạy ông, tôi già cả, ngộ quan bỏ tù tôi thì tôi chết mất. Tôi không hề kiện ai cả, mà bây giờ ông khai thì mặc ông với quan.
+Ông cụ già vẫn hậm hực:
+
+-- Thôi, lạy ông, tôi già cả, ngộ quan bỏ tù tôi thì tôi chết mất. Tôi không hề kiện ai cả, mà bây giờ ông khai thì mặc ông với quan.
 
 Ông lý trưởng người xưa kia đã đâm ngang vào việc, lúc ấy lại được thể đâm ngang vào một lần nữa bằng một câu:
 
@@ -1462,7 +1470,9 @@ Một cụ cười mà rằng:
 
 -- Chính thế! Vả lại giai khôn đòn quan, gái ngoan đòn chồng. Người ta có gan chịu đòn quan cho cả làng rồi, không được ai nói gì vào đấy nữa!
 
-Rồi, quay lại nhìn ông đồ, ông cụ hỏi: - Thế bây giờ ông đồ nghĩ sao nữa đây?
+Rồi, quay lại nhìn ông đồ, ông cụ hỏi:
+
+-- Thế bây giờ ông đồ nghĩ sao nữa đây?
 
 Ông đồ Uẩn, từ nãy đến giờ vẫn ngồi co ro vào một xó, như muốn cho thiên hạ quên khuấy mình đi, lúc ấy đành phải đứng lên ra chỗ bục:
 
@@ -1813,7 +1823,9 @@ Quan huyện xung thiên chi nộ, đập bàn mà rằng:
 
 -- Con Mịch kia! Trước pháp luật việc mày như thế là một việc làm đĩ không môn bài, vậy mày có muốn làm nhà thổ suốt đời không? Bọn lý dịch! Chúng mày đi kiện láo như thế tức là phạm tội vu cáo, vậy chúng mày có muốn ngồi tù không? Chúng mày để trong làng có truyền đơn, cờ đỏ, tao đây chưa cách cổ chúng mày đó mà! À ra cái dân này bướng bỉnh nhỉ? Chúng mày muốn rút đơn ra hay chúng mày muốn ngồi tù nào? Ông đã thương hại, ông bảo thật cho lại còn cứng cổ! Nào, thế lão đồ kia muốn xin bồi thường mấy trăm bạc thì để ông phê vào đây rồi ông đệ mẹ nó lên tỉnh cho chúng mày khốn khổ cả đi nào. Vô phúc thì đáo tụng đình đấy, các con ạ!
 
-Hai ba người nhao nhao lên: - Bẩm quan lớn, chúng con xin rút đơn kiện vậy. Quan huyện lườm cả lũ.
+Hai ba người nhao nhao lên:
+
+-- Bẩm quan lớn, chúng con xin rút đơn kiện vậy. Quan huyện lườm cả lũ.
 
 -- Thôi, bước! Bước ngay cả lũ!
 
@@ -1943,7 +1955,9 @@ Nghị Hách cười ha hả một hồi, cứ vỗ mãi vào vai Long, cười 
 
 -- Ông ấy hủ lậu thì ông ấy mới có những cái cẩn thận vô ích thế.
 
-Làm như không nghe thấy câu ấy, Long cứ nói tiếp: - Đằng này cụ đã hưởng cả cái chữ trinh của người ta như thế, thì hai trăm bạc với một lá thư cũng chẳng là bao. Còn hơn lấy về làm vợ lẽ, một là điều đình với người ta và với người mà mình là sự rất khó, hai là ngộ sau này có con thì nào con vợ cả, con vợ lẽ, sẽ có mối đáng lo về phần gia tài. Cụ cứ viết một lá thư cắt nghĩa rõ như thế rồi tôi xin quay về nói khó với ông chủ tôi.
+Làm như không nghe thấy câu ấy, Long cứ nói tiếp:
+
+-- Đằng này cụ đã hưởng cả cái chữ trinh của người ta như thế, thì hai trăm bạc với một lá thư cũng chẳng là bao. Còn hơn lấy về làm vợ lẽ, một là điều đình với người ta và với người mà mình là sự rất khó, hai là ngộ sau này có con thì nào con vợ cả, con vợ lẽ, sẽ có mối đáng lo về phần gia tài. Cụ cứ viết một lá thư cắt nghĩa rõ như thế rồi tôi xin quay về nói khó với ông chủ tôi.
 
 -- Ừ! Mày nói nghe được! Thế hợp ý tao lắm. Hai trăm bạc...
 
@@ -2051,7 +2065,9 @@ Vậy mà tết năm nay...
 
 Ông đồ ngồi co ro trong cái áo bông cũ mà nhìn trời mưa, thỉnh thoảng lại hút một hồi thuốc, ngán ngẩm trông những giọt mái gianh rơi xuống rãnh nước cho bong bóng phập phồng! Mịch bất giác thở dài vì thấy cả gia đình nhà mình không còn có tương lai nữa.
 
-Chợt có tiếng nói: - Chị Mịch đi hớt bèo về đấy à?
+Chợt có tiếng nói:
+
+-- Chị Mịch đi hớt bèo về đấy à?
 
 Ngoảnh lại nhìn, thì đó một bà cụ già đương đứng khom lưng chống gậy tre ở ngoài ngõ.
 
@@ -2757,11 +2773,17 @@ Chợt. Long đẩy Mịch ra, nhìn bụng nàng mãi... Mịch vội vòng tay
 
 -- Dạ! - Mịch! Có sự gì phải không? - Dạ.
 
-Long nghẹn ngào hỏi: - Em ễnh ruột ra đấy à?
+Long nghẹn ngào hỏi:
 
-Mịch đáp bằng giọng lạnh lùng: - Thưa anh vâng.
+-- Em ễnh ruột ra đấy à?
 
-Long hỏi lại: - Thưa anh vâng? - Vâng... Thằng... nghị... Hách
+Mịch đáp bằng giọng lạnh lùng:
+
+-- Thưa anh vâng.
+
+Long hỏi lại:
+
+-- Thưa anh vâng? - Vâng... Thằng... nghị... Hách
 -- Thật thế?
 
 Mịch cau mày đáp:
@@ -3055,7 +3077,9 @@ Long buồn rầu mà rằng:
 
 Long đứng dậy:
 
--- Thưa ông hay là tôi về? Ông giám đốc Đại Việt học hiệu giơ tay ngăn: - Không, ông cứ nằm xuống, tôi cũng nằm đây, tôi cũng hút như ông cho khuây khỏa! Chúng ta cần giải quyết với nhau vài câu chuyện cho xong đi thôi...
+-- Thưa ông hay là tôi về? Ông giám đốc Đại Việt học hiệu giơ tay ngăn:
+
+-- Không, ông cứ nằm xuống, tôi cũng nằm đây, tôi cũng hút như ông cho khuây khỏa! Chúng ta cần giải quyết với nhau vài câu chuyện cho xong đi thôi...
 
 
 # Chương 17
@@ -3603,7 +3627,9 @@ Long tuy cũng lộn ruột về sự suy bì gia thế, cũng cố nén giận,
 
 -- Em xin thú thật với anh rằng tuy em tự do thật đấy, nhưng em chưa yêu ai bao giờ cả. Anh là người thứ nhất...
 
-Long cười nhạt: - Đây này, nếu việc trăm năm của chúng ta mà không thành, mai sau em có người yêu nào khác, thì em lại có thể nói với người ta như bây giờ em nói với anh! Người ấy sẽ cũng vẫn còn là người yêu thứ nhất của em! Không hơn không kém...
+Long cười nhạt:
+
+-- Đây này, nếu việc trăm năm của chúng ta mà không thành, mai sau em có người yêu nào khác, thì em lại có thể nói với người ta như bây giờ em nói với anh! Người ấy sẽ cũng vẫn còn là người yêu thứ nhất của em! Không hơn không kém...
 
 -- Trừ khi đã trải đời lắm rồi, thì mới đa nghi như anh. - Có lẽ...
 
